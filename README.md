@@ -12,4 +12,17 @@ This project focuses on analysing Amazon product listings and customer review da
 - Enhances customer engagement 
 - - -
 
+## 🖇️Table of Contents 
+- [Project Overview](#project-overview)
+_ [Dataset](#dataset)
+- [Data Source](#data-source)
+- [Tools Used](#tools-used)
+- [Data Cleaning and Preparation] (#data-cleaning-and-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Visuals](#data-visuals)
+- [Insights](#insights)
+- [Recommendation](#recommendation)
+- - -
+
+
 
