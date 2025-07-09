@@ -8,13 +8,21 @@ This is my application of data analysis concepts learnt during the Data Skillup 
 
 ## 🖇️Table of Contents 
 [Project Overview](#project-overview)
+
 [Dataset](#dataset)
+
 [Data Source](#data-source)
+
 [Tools Used](#tools-used)
+
 [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+
 [Exploratory Data Analysis](#exploratory-data-analysis)
+
 [Data Visuals](#data-visuals)
+
 [Insights](#insights)
+
 [Recommendation](#recommendation)
 - - -
 
