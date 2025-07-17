@@ -36,26 +36,26 @@ This project focuses on analysing Amazon product listings and customer review da
 ## Dataset
 The dataset contains product details scraped from Amazon Product pages. It includes:
 
--**Total Records:** 1,465 rows
+- **Total Records:** 1,465 rows
 
--**Total Columns:** 16 fields
+- **Total Columns:** 16 fields which include:
 
- - *Product ID*: This is a unique identifier for each product listing or seller's version of the product
- - *Product Name*: This describes the general product
- - *Product Category*: The group or type the product belongs to
- - *Discounted Price*: The final selling price after discount is applied
- - *Actual Price*: The original or listed price before discount
- - *Discount Percentage*: The percentage deduction from the actual price calculated as:(Actual Price-Discounted Price)/Actual Price*100
- - *Rating*: The average customer rating for the product
- - *Rating Count*: The number of people who rated the product
- - *About Product*: A textual summary or description of the product
- - *User_ID*: A unique identifier for the user who submitted the review
- - *Username*: The name or alias of the person who reviewed the product
- - *Review_ID*: A unique ID assigned  to each review entry
- - *Review Title*: The headline of the review
- - *Review Content*: The full body of the user's review
- - *Img_Link*: URL to the product's image
- - *Product Link*: URL to the product's page on the marketplace
+  - *Product ID*: This is a unique identifier for each product listing or seller's version of the product
+  - *Product Name*: This describes the general product
+  - *Product Category*: The group or type the product belongs to
+  - *Discounted Price*: The final selling price after discount is applied
+  - *Actual Price*: The original or listed price before discount
+  - *Discount Percentage*: The percentage deduction from the actual price calculated as:(Actual Price-Discounted Price)/Actual Price*100
+  - *Rating*: The average customer rating for the product
+  - *Rating Count*: The number of people who rated the product
+  - *About Product*: A textual summary or description of the product
+  - *User_ID*: A unique identifier for the user who submitted the review
+  - *Username*: The name or alias of the person who reviewed the product
+  - *Review_ID*: A unique ID assigned  to each review entry
+  - *Review Title*: The headline of the review
+  - *Review Content*: The full body of the user's review
+  - *Img_Link*: URL to the product's image
+  - *Product Link*: URL to the product's page on the marketplace
 - - -
 
 ## Data Source
