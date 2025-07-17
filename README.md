@@ -36,9 +36,12 @@ This project focuses on analysing Amazon product listings and customer review da
 ## Dataset
 The dataset contains product details scraped from Amazon Product pages. It includes:
 
--**Total Records: **1,465 rows
--**Total Columns: **16 fields
--**Key Columns: **
+-**Total Records:** 1,465 rows
+
+-**Total Columns:** 16 fields
+
+-**Key Columns:**
+
  - Product ID
  - Product Name
  - Product Category
@@ -47,5 +50,21 @@ The dataset contains product details scraped from Amazon Product pages. It inclu
  - Discount Percentage
  - Rating
  - Rating Count
+- - -
+
+## Data Source
+The dataset was handed to us by the Incubator Hub to practice and showcase what we've learnt so far in the Data Skillup Africa Training. The dataset is available upon request
+- - -
+
+## Tools Used
+- Microsoft Excel for:
+  - Data cleaning
+  - Calculated columns
+  - Pivot table analysis
+  - Dashboard and visualisation
+- - -
+
+## Data Cleaning and Preparation
+
 
 
