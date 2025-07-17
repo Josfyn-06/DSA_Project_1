@@ -33,4 +33,18 @@ This project focuses on analysing Amazon product listings and customer review da
 - Enhanced customer engagement 
 - - -
 
+## Dataset
+The dataset contains product details scraped from Amazon Product pages. It includes:
+-**Total Records: **1,465 rows
+-**Total Columns: **16 fields
+-**Key Columns: **
+ - Product ID
+ - Product Name
+ - Product Category
+ - Discounted Price
+ - Actual Price
+ - Discount Percentage
+ - Rating
+ - Rating Count
+
 
