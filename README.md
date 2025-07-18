@@ -84,5 +84,18 @@ In this phase of my analysis, i performed the following actions to ensure accura
   - Product_Link
 - *Duplicates Removal*: Removed duplicate rows to ensure unique records. 81 duplicates were found and removed left with 1,384 rows out of 1,465 records that was given in the dataset. I also noticed duplicates in Product Id with same product name with just slight difference in the rating, this showed that the same products were entered twice in the dataset with a difference of 1 or 2 in rating. I first of filtered the rating column in descending order, then i removed duplicates just choosing the product id and product name column in order for the duplicate with the highest rating to be left behind. This brought about 33 more duplicates being found and 1,351 unique values remaining.
 - *Blank Value Check*: Verified the dataset for blank values
-- *Data Type Conversion*: Converted some specified columns to text format, number format and percentage format where necessary for consistency
+- *Data Type Conversion*: Standardized data type for:
+   - Prices (converted to numeric format)
+   - Discount Percentage (converted to percentage format)
+   - Ratings (verified as numbers)
+- *Column Cleaning*: Cleaned extra spaces and hidden characters from key columns. Cut and trimmed columns that needed cleaning
+- *Created Calculated Columns*
+  - Price Range Buckets: `<₹200`, `₹200–₹500`, `>₹500`
+  - Potential Revenue = `Discounted Price * Rating Count
+- - -
+
+### Exploratory Data Analysis
+
+
+
 
