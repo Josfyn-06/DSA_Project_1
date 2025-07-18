@@ -72,8 +72,8 @@ The dataset was handed to us by the Incubator Hub to practice and showcase what 
 
 ## Data Cleaning and Preparation
 In this phase of my analysis, i performed the following actions to ensure accurate analysis and visualisations:
-- *Data loading*: Loaded the data to a blank excel workbook
-- *Removal of Irrelevant Columns*: Columns not required for the analysis were removed to reduce noise and improve clarity. They include
+- **Data loading**: Loaded the data to a blank excel workbook
+- **Removal of Irrelevant Columns**: Columns not required for the analysis were removed to reduce noise and improve clarity. They include
   - About Product
   - User_ID
   - User_name
@@ -114,6 +114,16 @@ After cleaning the dataset and creating calculated columns, i conducted thorough
 - **Top Products**: The most successful products combined high ratings (above 4.5) with a large number of reviews (10,000+), mostly in mobile accessories.
 - **Duplicates**: Multiple identical product names with different IDs existed — possibly representing different sellers or minor variants. Same with multiple Product ID with different product names
 - - -
+
+### Visuals
+<img width="879" height="305" alt="Amazon Pivot" src="https://github.com/user-attachments/assets/1fb8bb19-2589-4f45-9b49-bc930dc2cc71" />
+
+
+
+
+<img width="806" height="296" alt="Amazon Dashboard" src="https://github.com/user-attachments/assets/da422db6-f0f1-4209-b76b-6bd1e21d2ba5" />
+
+
 
 
 
