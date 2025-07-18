@@ -130,7 +130,7 @@ After cleaning the dataset and creating calculated columns, i conducted thorough
 - **Focus on High-Performing Categories**: Sellers should invest more in "Electronics" and "Home and Kitchen" and "Computer and Accessories where customer interest is strong.
 - **Optimize Discount Strategy**: Rather than large discounts, moderate discounts with quality and strong reviews can drive trust and conversions.
 - **Encourage Reviews**: Products with more reviews attract more buyers — sellers can use incentives to gather reviews.
-- **Consolidate Listings**: Reduce duplicate listings by ensuring sellers avoid repeating the same product under multiple IDs.
+- **Consolidate Duplicates**: Reduce duplicates by ensuring we don't have duplicate product ID for different product names and duplicate product names for different product ID as the case is in this analysis
 - **Monitor Rating Impact**: Regularly track how ratings fluctuate with price and discount changes to optimize value perception
 - **Promote High-Potential Products**: Products with high potential revenue but lower visibility (few reviews) should be promoted more actively.
 
