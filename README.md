@@ -21,7 +21,7 @@ This is my application of data analysis concepts learnt during the Data Skillup 
 
 [Data Visuals](#data-visuals)
 
-[Insights](#insights)
+[Key Insights](#key-insights)
 
 [Recommendation](#recommendation)
 - - -
@@ -95,6 +95,26 @@ In this phase of my analysis, i performed the following actions to ensure accura
 - - -
 
 ### Exploratory Data Analysis
+After cleaning the dataset and creating calculated columns, i conducted thorough exploration to uncover the product landscape, customer engagement patterns and pricing dynamics on Amazon. Below is how i explored the data:
+- *Category Distribution*: Products were spread across multiple categories, with "Electronics" having the highest count followed by "Home and Kitchen" and "Computer and Accessories"
+- *Review Activity*: We analyzed the number of reviews and ratings across products and categories.
+- *Pricing*: Actual and discounted prices were compared to understand discount trends.
+- *Discount Analysis*: We grouped discount percentages to identify heavily discounted product segments.
+- *Rating Distribution*: Ratings ranged from 1.0 to 5.0, with the majority of products rated between 3.9 to 4.5.
+- *Potential Revenue*: By multiplying actual price with rating count, we estimated potential revenue per product and per category.
+- *Unique Products*: We identified and accounted for duplicate product names with different product IDs.
+- *High Performers*: Top 5 products were selected based on a combination of rating score and number of reviews.
+- - -
+
+### Key Insights
+- *Most Reviewed Categories*: Electronics generated the highest review counts followed by "Computer and Accessories and "Home and Kitchen" indicating strong customer engagement in these categories.
+- *Actual Price vs. Discount Percentage*: It shows that the higher the price bucket, the lower the discount percentage. And more products are being purchased from the highest price bucket
+- *Rating Trends*: Products with higher discounts didn’t necessarily have better ratings — suggesting price cuts don't always reflect quality.
+- *Revenue Potential*: Some moderately priced products had very high review counts, showing they contributed significantly to potential revenue.
+- *Top Products*: The most successful products combined high ratings (above 4.5) with a large number of reviews (10,000+), mostly in mobile accessories.
+- *Duplicates*: Multiple identical product names with different IDs existed — possibly representing different sellers or minor variants. Same with multiple Product ID with different product names
+- - -
+
 
 
 
