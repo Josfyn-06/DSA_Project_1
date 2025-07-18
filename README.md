@@ -106,16 +106,7 @@ After cleaning the dataset and creating calculated columns, i conducted thorough
 - **High Performers**: Top 5 products were selected based on a combination of rating score and number of reviews.
 - - -
 
-### Key Insights
-- **Most Reviewed Categories**: Electronics generated the highest review counts followed by "Computer and Accessories and "Home and Kitchen" indicating strong customer engagement in these categories.
-- **Actual Price vs. Discount Percentage**: It shows that the higher the price bucket, the lower the discount percentage. And more products are being purchased from the highest price bucket
-- **Rating Trends**: Products with higher discounts didn’t necessarily have better ratings — suggesting price cuts don't always reflect quality.
-- **Revenue Potential**: Some moderately priced products had very high review counts, showing they contributed significantly to potential revenue.
-- **Top Products**: The most successful products combined high ratings (above 4.5) with a large number of reviews (10,000+), mostly in mobile accessories.
-- **Duplicates**: Multiple identical product names with different IDs existed — possibly representing different sellers or minor variants. Same with multiple Product ID with different product names
-- - -
-
-### Visuals
+### Data Visuals
 <img width="879" height="305" alt="Amazon Pivot" src="https://github.com/user-attachments/assets/1fb8bb19-2589-4f45-9b49-bc930dc2cc71" />
 
 
@@ -126,6 +117,22 @@ After cleaning the dataset and creating calculated columns, i conducted thorough
 
 
 
+### Key Insights
+- **Most Reviewed Categories**: Electronics generated the highest review counts followed by "Computer and Accessories and "Home and Kitchen" indicating strong customer engagement in these categories.
+- **Actual Price vs. Discount Percentage**: It shows that the higher the price bucket, the lower the discount percentage. And more products are being purchased from the highest price bucket
+- **Rating Trends**: Products with higher discounts didn’t necessarily have better ratings — suggesting price cuts don't always reflect quality.
+- **Revenue Potential**: Some moderately priced products had very high review counts, showing they contributed significantly to potential revenue.
+- **Top Products**: The most successful products combined high ratings (above 4.5) with a large number of reviews (10,000+), mostly in mobile accessories.
+- **Duplicates**: Multiple identical product names with different IDs existed — possibly representing different sellers or minor variants. Same with multiple Product ID with different product names
+- - -
+
+### Recommendation
+- **Focus on High-Performing Categories**: Sellers should invest more in "Electronics" and "Home and Kitchen" and "Computer and Accessories where customer interest is strong.
+- **Optimize Discount Strategy**: Rather than large discounts, moderate discounts with quality and strong reviews can drive trust and conversions.
+- **Encourage Reviews**: Products with more reviews attract more buyers — sellers can use incentives to gather reviews.
+- **Consolidate Listings**: Reduce duplicate listings by ensuring sellers avoid repeating the same product under multiple IDs.
+- **Monitor Rating Impact**: Regularly track how ratings fluctuate with price and discount changes to optimize value perception
+- **Promote High-Potential Products**: Products with high potential revenue but lower visibility (few reviews) should be promoted more actively.
 
 
 
